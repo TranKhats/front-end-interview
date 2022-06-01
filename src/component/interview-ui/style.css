@@ -1,0 +1,18 @@
+.container{
+    width: 400px;
+    margin: auto;
+}
+
+.container  input,.container  label{
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.error-msg{
+    font-size: small;
+    color: red;
+}
+
+.success-msg{
+    color: #44b644;
+}
