@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-###Please change constant BASE_URL in /src/constants/index.js responds whith api server (if you change your port) to access API
+##Please change constant BASE_URL in /src/constants/index.js responds whith api server (if you change your port) to access API
 ## Available Scripts
 
 In the project directory, you can run:
